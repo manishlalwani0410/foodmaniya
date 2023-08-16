@@ -1,4 +1,4 @@
-"# foodmaniya" 
+# Foodmaniya
 # Restaurant_management_system
 
     python get-pip.py
