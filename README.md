@@ -33,3 +33,6 @@
 
     username:"dkp" password:"Dkp@4321"
 
+
+
+[![manishlalwani0410's GitHub | Stats](https://stats.quine.sh/manishlalwani0410/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manishlalwani0410)
